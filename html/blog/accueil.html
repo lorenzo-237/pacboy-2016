@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+	<script type="text/javascript">
+        //ok , it's working , we are done , if you want to add imgs you have to :
+
+        //1 - add an img tag with id : Img++; ex:  <img id="Img4" src="IMG/1.jpg"/>
+        //2 - add an li tag  with id : S++;   ex:  <li id="S4"></li>
+        //3 - add an p tag with id : SP++;    ex:  <p id="SP4"></p>
+        //4 - change the value of nrImg 
+
+        var nrImg = 2;  //the number of img , I only have 2
+        var IntSeconds = 4;     //the seconds between the imgs
+
+        function Load()
+        {
+            nrShown = 0;    //the img visible
+            Vect = new Array(nrImg + 10);
+            Vect[0] = document.getElementById("Img1");
+            Vect[0].style.visibility = "visible";
+
+            document.getElementById("S" + 0).style.visibility = "visible";
+
+            for (var i = 1; i < nrImg; i++)
+            {
+                Vect[i] = document.getElementById("Img" + (i + 1));
+                document.getElementById("S" + i).style.visibility = "visible";
+            }
+
+            document.getElementById("S" + 0).style.backgroundColor = "rgba(255, 255, 255, 0.90)";
+            document.getElementById("SP" + nrShown).style.visibility = "visible";
+
+            mytime = setInterval(Timer, IntSeconds * 1000);
+        }
+        function Timer()
+        {
+            nrShown++;
+            if (nrShown == nrImg)
+                nrShown = 0;
+            Effect();
+        }
+        //next img
+        function next()
+        {
+            nrShown++;
+            if (nrShown == nrImg)
+                nrShown = 0;
+            Effect();
+
+            clearInterval(mytime);
+            mytime = setInterval(Timer, IntSeconds * 1000);
+        }
+        function prev()
+        {
+            nrShown--;
+            if (nrShown == -1)
+                nrShown = nrImg -1;
+            Effect();
+
+            clearInterval(mytime);
+            mytime = setInterval(Timer, IntSeconds * 1000);
+        }
+        //here changes the img + effect
+        function Effect()
+        {
+            for (var i = 0; i < nrImg; i++)
+            {
+                Vect[i].style.opacity = "0";   //to add the fade effect
+                Vect[i].style.visibility = "hidden";
+
+                document.getElementById("S" + i).style.backgroundColor = "rgba(0, 0, 0, 0.70)";
+                document.getElementById("SP" + i).style.visibility = "hidden";
+            }
+            Vect[nrShown].style.opacity = "1";
+            Vect[nrShown].style.visibility = "visible";
+            document.getElementById("S" + nrShown).style.backgroundColor = "rgba(255, 255, 255, 0.90)";
+            document.getElementById("SP" + nrShown).style.visibility = "visible";
+        }
+
+    </script>
+	<head>
+		<meta charset="utf-8" />
+		<!--[if lt IE 9]>
+<script
+src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="accueil.css">
+		<link rel="stylesheet" href="design.css">
+		<title> PacBoy </title>
+	</head>
+
+	<body onload="Load()">
+		<div id="bloc_page">
+			<header>
+				<div id="logo">
+					<img src="images/logo.png" alt=""/>
+				</div>
+				<div id="titre_principal">
+					<h1> Informatique et Science du Numérique </h1>
+					<h2> Projet : PacBoy </h2>
+				</div>
+			</header>
+
+			<div id="slider">
+        		<div id="imgs">
+            		<!-- here you have to add the img tag -->
+            		<img id="Img1" src="images/expo1.png"/>
+            		<img id="Img2" src="images/expo2.png"/>
+        		</div>
+        		<!--Here is going to be the left right buttons, the info and the imgs shown-->
+        		<div id="Snav">
+            		<!-- here is the circles , showes the current img -->
+            		<div id="SnavUp">
+                		<div id="Scircles">
+                    		<ul>
+                        		<!-- here you have to add the li tag-->
+                        		<li id="S0"></li>
+                        		<li id="S1"></li>
+                    		</ul>
+	                	</div>
+	            	</div>
+	            	<!-- the left and right button -->
+	            	<div id="SnavMiddle">
+	                	<img id="Sleft" src="images/left.png" onclick="prev()"/>
+	                	<img id="Sright" src="images/right.png" onclick="next()"/>
+	            	</div>
+	            	<!-- the info -->
+	            	<div id="SnavBottom">
+	            			<p id="SP0">By Lorenzo<a href="Expose/Expo1/expo.html" target="_blank" class="bouton">CLIQUER ICI  <img src="images/flecheblanche.png" alt=""/></a></p>
+	                		<p id="SP1">By William<a href="Expose/william - PRN.pptx" target="_blank" class="bouton">TELECHARGER <img src="images/flecheblanche.png" alt=""/></a></p>
+	            	</div>
+        		</div>
+
+        		
+    		</div>
+
+			<nav>
+				<ul>
+				<li><a href="accueil.html">Accueil</a></li>
+				<li><a href="Diapositive/diapo.html">Notre projet</a></li>
+				<li><a href="Taches/tache.html">Tâches</a> </li>
+				<li><a href="Dossier/dossier.html">Dossiers</a></li>
+				<li><a href="Download/load.html">Téléchargement</a> </li>
+				<li><a href="Annexe/annexe.html">Annexe</a> </li>
+				</ul>
+			</nav>
+			<section>
+				<article>
+					<h1>INTRODUCTION SUR L'ISN</h1>
+					<p>Aujourd'hui les <strong>sciences informatiques</strong>, et plus généralement les <strong>sciences du numérique</strong> ont envahi nos vies professionnelles et personnelles. "L'objectif de l'enseignement de spécialité ISN en terminale S, n'est pas de former des experts en informatique, mais plutôt de fournir aux élèves quelques notions fondamentales".</p>
+					<p>Ainsi 2h par semaine sont consacrées à cette spécialité. Elle consiste à mettre en situation d'activité les élèves, aussi souvent que possible. Une pédagogie de projet  est adoptée : cela favorise l'activité en groupe et la recherche individuelle qui développe <strong>l'autonomie</strong> des élèves.</p>
+					<p>Pour l'épreuve du bac, les élèves se préparent toutes l'années en travaillant sur <em>leur projet final</em> et peuvent bénéficier d'aide de la part du/des professeur(s). Cependant le projet final n'est pas la seule activité on retrouve par exemple: l'introduction à quelques bases, des programmations simples, mini-projet, exposés...</p>
+					<p>L'évaluation du travail accompli se base sur un rapport écrit de plusieurs pages et sur une présentation orale (8 min) argumentée suivie d'un questionnaire du jury. Le questionnaire se base, sur des connaissances en informatique (telechargement, unité centrale, images, codage RVB, pixel ...) et aussi sur votre projet et les notions vues en ISN (langage binaire et conversion par exemple).</p>
+				</article>
+				<aside>
+					<h1>A PROPOS DU SITE</h1>
+					<h2>Présentation :</h2>
+					<p>Ce site a été crée par MAGNI Lorenzo, et, est entrenu avec l'aide de DIPOKO William. Deux élèves de terminale S (années 2015 - 2016). <br/> <br/>
+					"Ayant choisit la spécialité informatique, cette page est le fruit de notre travail. Vous y trouverez notre projet, notre présentation et les ressources utilisées." <span id="Lorenzo">(Lorenzo)</span> <br/> <br/>
+					"Nous avons pris beaucoup de plaisir au cours de cette année, donc nous espérons que vous aprécierez notre travail autant que nous."<span id="William">(William)</span> <br/> <br/>
+					BIENVENUE !
+					</p>
+
+				</aside>
+			</section>
+			<footer>
+				<div id="auteurs_projet">
+					<p>Auteurs : MAGNI Lorenzo , DIPOKO William <br />
+					<p id ="contact">Nous contacter : lorenzowilliam4@gmail.com </p>
+				</div>
+				<div id="completer">
+					<p><p>
+				</div>
+			</footer>
+		</div>
+	</body>

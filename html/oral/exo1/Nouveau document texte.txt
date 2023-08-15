@@ -1,0 +1,137 @@
+LOGICIEL LIBRE ET LICENCES
+Qu'est -ce qu'un logiciel libre? (free = libre = gratuit ?)
+Les différents modèles économiques du logiciel libre
+Les licences multiples (Creative Commons, GNU,...) et leurs intérêts respectifs.
+Quand on « publie » sur internet, comment faire ? Quels risques ? 
+_______________________________________________________________________________________________________________
+
+ANNEXE
+
+GNU
+http://www.gnu.org/philosophy/free-sw.fr.html
+https://www.gnu.org/licenses/gpl-faq.html
+
+Creative Commons
+https://creativecommons.org/licenses/?lang=fr
+http://creativecommons.fr/sbsdsdfgds/ (vidéo)
+http://creativecommons.fr/faqs/
+http://creativecommons.org/choose/?lang=fr
+
+Association Francophone des Utilisateurs de Logiciels Libres
+https://aful.org/ressources/logiciel-libre
+https://aful.org/ressources/licences-libres
+https://aful.org/media/document/modeles-economiques.pdf
+
+http://eduscol.education.fr/internet-responsable/se-documenter-publier/reutiliser-des-contenus-produits-par-des-tiers/les-precautions-a-prendre.html
+https://www.lauyan.com/fr/publish.html
+https://fr.wikipedia.org/wiki/Licence_propriétaire
+_______________________________________________________________________________________________________________
+
+Un logiciel libre désigne un logiciel qui respecte la
+liberté des utilisateurs. Ceux-ci ont la liberté d'éxécuter, copier, distribuer,
+étudier, modifier et voir améliorer le logiciel.
+[free software]
+free = libre / gratuit or un logiciel libre n'est pas forcément gratuit, parfois
+il peut être payant.
+Le "contraire" = logiciel propriétaire (moins nombreux)
+Logiciels vendus dans le commerce
+Pour faire simple la principale différence entre ces deux type de logiciel est:
+ - l'un LL est distribué avec son code source (peut donc être modif.)
+ - l'autre LP est distribué avec une version <executable> le code source est caché
+
+Mozilla Firefox - Navigateur web, modules Gratuit
+Microsoft - entreprise d'informatique et de micro-informatique vendent Sys./Logi
+
+_______________________________________________________________________________________________________________
+
+Ainsi on a vu précédament que la plupart des logiciels libres sont gratuits. On peut donc se demander si un
+logiciel libre rapporte de l'argent. La réponse est oui. Il existe différents modèles économiques liés aux
+logiciels libres.
+
+I - Services
+ _Souscription, Support, Prestation de service (installation, entretien, formation), Certification matériel
+
+ _Ventes de solutions pour les utilisateurs:
+	société télécommunication, internet (Livebox, Freebox,)
+	antivirus
+  Ce qui propose ces vente mette donc a dispostion du matériel prêt à l'emplois qui répond à des besoins
+  avec mise à jour, abonnement
+
+ _Logiciel Libre avec extension. 
+	distribution logiciel libre avec des extensions et/ou outils de dév. payant
+
+II - Mutualisation
+ _Pour faire simple, certains acteurs qui ont les moyens peuvent financier un logiciel
+
+III - Apport indirect
+ _ Sponsor, publicité, produit dérivés (T-shirt, tasses, peluches), dons 
+
+_______________________________________________________________________________________________________________
+
+Quand on parle de logiciel libre on ne peut pas éviter le sujet de license.
+Qu'est ce qu'une license ?
+ _C'est un moyen de protéger les oeuvres distribués et d'assurer les droits d'auteurs par exemple. 
+Une license indique aux  utilisateurs les droits qui leurs sont concédés, et les obligations éventuelles 
+qui leur sont imposées.
+
+On emplois donc le terme "logiciels libres" du fait de leurs licenses qui les définissent comme tel.
+Ces licenses s'appellent License libre et se définisse par 4 critères selon la 
+FSF (Free Software Foundation) - non lucratif, promotion du logiciel libre et la défense des utilisateurs.
+ La liberté d'exécuter le logiciel
+ La liberté d'étudier le fonctionnement du logiciel et de l'adapter à ses besoins
+ La liberté de redistribuer des copies du logiciel
+ La liberté d'améliorer le logiciel et de publier ces améliorations
+
+Il existes donc plusieurs licenses, on parle de license multiple du fait qu'un logiciel peut par exemple
+utiliser plus d'une license à cause du but recherché par son concepteur.
+
+Creative Common - organisation à but non lucratif, qui regroupe plusieurs licenses mises à disposition
+des utilisateurs pour protéger ses produits.
+"Nos outils donnent à tout le monde, du créateur individuel aux grandes entreprises et aux 
+institutions publiques, des moyens simples standardisés d’accorder des permissions de droits d’auteur 
+supplémentaires à leurs œuvres." https://creativecommons.org/licenses/?lang=fr
+Avantages : 
+s'adresse à toutes personnes qui créent des oeuvres et souhaitant les partager
+c'est un moyen simple et fluide de gérer les droits des utilisateurs
+et de réutiliser des données de manière sécurisée.
+
+
+GNU - est un système d'exploitation crée par le fondateur de la FSF et qui en plus de favoriser les logiciels
+libres, regroupe un grand nombre d'entre eux dans un système d'exploitation. Il met aussi à disposition des
+des licenses notamment la GNU GPL qui protège le logiciel libre qui l'utilise.
+(General Public License / General Public License)
+En utilisant la GNU GPL, on assure le fait que les versions améliorées puis diffusées de son logiciel libre  
+soient aussi du logiciel libre.
+Avantes :
+éviter le risque d'avoir à entrer en concurrence avec une version modifiée privatrice
+N'importe qui peut publier un programme sous la GNU GPL
+
+RESUME:
+Utiliser une license permet de sécuriser son oeuvre ainsi si quelqu'un la copie et la redistribue
+(si la license le permet), la copie bénéficie des mêmes conditions que l'originale.
+
+ATTENTION : 
+avant d'utiliser n'importe quelle license il faut s'assurer de bien avoir compris les enjeux, et
+ce qu'elles permettent de faire ou non. Changer de license ou même supprimer n'efface pas les copies déjà
+faites.
+
+_______________________________________________________________________________________________________________
+
+publier est un verbe large,car on peut publier de nombreuses choses. Il y a donc différents moyens de publication
+les réseaux sociaux - nécessite souvent une inscription, la publication se fait dans des zones de texte
+les plateformes de partage vidéo - inscription
+les blogs ou site internet(forum)- soit par inscription sur une page web déjà crée,
+ soit crée par soit même. Pour mettre en ligne son site il faut un hébergeur de site (payant = + de libertés)
+
+
+Publier du contenu (vidéos, images, musiques, livres, messages ...) nécessite d'être contrôler pour 
+la sécurité des utilisateurs. Pourquoi avons nous besoin d'être protégé ?
+Internet présente de nombreux risques en résumé, 
+victime violation de la vie privée, arnaques, vol, atteinte au droit d'auteur, droit à l'image
+
+De plus les licenses assurent la sécurité sans license se présente le risque dee se faire "voler" son oeuvre.
+ainsi avant de réutiliser une oeuvre il faut s'assurer qu'on en a le droit généralement dans des onglets
+« conditions d’utilisation », « mentions légales » ou encore « crédits », souvent en pied de page du site.
+
+
+

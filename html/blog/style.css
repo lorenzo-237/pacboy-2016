@@ -1,0 +1,123 @@
+/* Element principaux */
+
+body
+{
+	background: url("images/background.jpg");
+	font-family: Calibri,'Trebuchet MS', Arial, sans-serif;
+	color: white;
+}
+
+#bloc_page /* Permet de centrer la page */
+{
+	width: 1200px;
+	margin: auto;
+}
+
+/* Header */
+
+header
+{
+	background: url("images/separateur.png") repeat-x bottom;
+	margin-bottom: 10px;
+}
+
+#logo
+{
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+#titre_principal
+{
+	display: inline-block;
+	position: absolute;
+	top:0;
+	right: 100px;
+}
+
+header h1
+{
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 2.2em;
+	color:blue;
+}
+
+header h2
+{
+	text-align: right;
+	font-size: 1.7em;
+	color: red;
+	margin-right: 150px;
+	margin-top: 50px;
+}
+
+/* Navigation */
+
+nav
+{	
+	width: 200px;	
+	display: inline-block;
+	border-radius: 50px;
+	background: url("images/nav.png");
+	margin-right: 10px;
+	vertical-align: top;
+}
+
+nav ul
+{
+	list-style-type: none;
+}
+
+nav li
+{
+	margin-bottom: 2px;
+}
+
+nav a
+{
+	font-family: Calibri,'Trebuchet MS';
+	font-style: italic;
+	font-weight: bold;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	color:yellow;
+	text-decoration: none;
+}
+
+nav a:hover
+{
+	color:#ff009f;
+	text-decoration: underline;
+}
+
+/* Section */
+
+section
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer */
+
+footer
+{
+	margin-top: 10px;
+	background: url("images/separateur.png") repeat-x top;
+}
+
+#auteurs_projet
+{
+	width: 300px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+#completer
+{
+	width:300px;
+	display: inline-block;
+	position: absolute;
+	right: 500px;
+}

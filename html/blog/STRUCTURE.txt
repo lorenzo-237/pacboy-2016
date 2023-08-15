@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>	
+		<!--[if lt IE 9]>
+<script
+src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+		<link rel="stylesheet" href="style.css" />
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+
+	<body>
+		<header>
+
+		</header>
+
+		<nav>
+
+		</nav>
+		<section>
+			<aside>
+
+			</aside>
+			<article>
+				
+			</article>
+		</section>
+		<footer>
+			
+		</footer>
+	</body>
+</html>

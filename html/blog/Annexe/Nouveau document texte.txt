@@ -1,0 +1,23 @@
+Livre (conseillé) : Apprendre à programmer avec Python 3 de Gérard Swinnen
+
+Son :
+http://stackoverflow.com/questions/28127730/how-to-install-pygame-on-python-3-4
+https://openclassrooms.com/courses/interface-graphique-pygame-pour-python/le-son-5
+http://www.universal-soundbank.com/
+http://toutestquantique.fr/laser/
+
+Python :
+http://apprendre-python.com/page-tkinter-interface-graphique-python-tutoriel
+
+Autres (questions, connaissances) :
+https://fr.wikipedia.org/wiki/Loi_des_cosinus
+https://openclassrooms.com/forum/
+
+Logiciels utilisés :
+Paint – Photo filtre – Audacity – Virtual DJ – Gimp – La boîte à couleur
+
+Sliders et bannieres du site:
+J&G Proyectos Web Slider manual N°1 HTLM y CSS
+https://www.youtube.com/channel/UCrh7BmIGftt9I3fcABYoaBA
+Learn2Code Image Slider Part 1 (2, 3):
+https://www.youtube.com/channel/UCVS4isHOnN4N9zAGLIgnaJA

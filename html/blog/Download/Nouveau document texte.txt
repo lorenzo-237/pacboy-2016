@@ -1,0 +1,5 @@
+PROJET.zip (code + exe)
+Pygame 3.4.msi
+
+video explicative passer .py en exe
+installation CxFreeze

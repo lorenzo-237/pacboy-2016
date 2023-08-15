@@ -1,0 +1,115 @@
+#personelle
+{
+	width: 800px;
+	height: 230px;
+	border-radius: 40px;
+	background:url("img/perso.png");
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 0.5px;
+	padding-bottom: 0.5px;
+	margin-top: 16px;
+	margin-left: 20px;
+	text-align: justify;
+	color: black;
+	font-weight: bold;
+}
+
+#personelle ul
+{
+	list-style-type: none;
+	text-align: center;
+}
+
+#personelle a
+{
+	color: black;
+	font-size: 1.2em;
+} 
+
+#personelle a:hover
+{
+	color: purple;
+}
+
+#personelle h1
+{
+	color: red;
+}
+
+#PostS
+{
+	text-transform: uppercase;
+	color : purple;
+}
+
+article
+{
+	width: 400px;
+	margin-top: 70px;
+	border-radius: 40px;
+}
+
+article h1
+{
+	font-size: 2.5em;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	color: yellow;
+}
+
+.diaporama1
+{
+	width: 960px;
+	height: 500px;
+	margin: auto;
+	position: relative;
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content: right;
+	align-items:flex-end;
+	border: 2px solid orange;
+}
+
+.diaporama1 img 
+{
+	opacity: 0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height:100%;
+	transition: all 0.7s;
+}
+
+.diaporama1 input[type="radio"]
+{
+	display: none;
+}
+
+.diaporama1 input[type="radio"]:checked ~ img
+{
+	opacity: 1;
+}
+
+.diaporama1 input[type="radio"] + label
+{
+	position: relative;
+	z-index: 50;
+	margin: 10px;
+
+	display: block;
+	width: 20px;
+	height: 20px;
+	background: maroon;
+	border: 1px solid orange;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.diaporama1 input[type="radio"]:checked + label
+{
+	background: black;
+}

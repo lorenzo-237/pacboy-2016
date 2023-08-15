@@ -1,0 +1,763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"r",
+				"rgb()"
+			],
+			[
+				"sd",
+				"box-shadow"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"me",
+				"menu-questions"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"img",
+				"imageC"
+			],
+			[
+				"hom",
+				"home2"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"Sn",
+				"SnavBottom"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"au",
+				"auteurs_projet"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"abs",
+				"abscisse_obstacle"
+			],
+			[
+				"or",
+				"ordonnee_obstacle"
+			],
+			[
+				"ab",
+				"abscisse_obstacle"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ex",
+				"extension_good"
+			],
+			[
+				"num",
+				"numeros_jeu"
+			],
+			[
+				"o",
+				"oBool_quitter"
+			],
+			[
+				"votr",
+				"votre_mise"
+			],
+			[
+				"vot",
+				"votre_mise"
+			],
+			[
+				"vo",
+				"votre_mise"
+			],
+			[
+				"votre",
+				"votre_mise"
+			],
+			[
+				"rand",
+				"randrange"
+			],
+			[
+				"conver",
+				"convert_alpha"
+			],
+			[
+				"dk",
+				"dk_b"
+			],
+			[
+				"ob",
+				"obdécider"
+			],
+			[
+				"client",
+				"client1"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"cl",
+				"client_02"
+			],
+			[
+				"cli",
+				"client_01"
+			],
+			[
+				"clie",
+				"client_02"
+			],
+			[
+				"clien",
+				"client_03"
+			],
+			[
+				"a",
+				"afficher_balance"
+			],
+			[
+				"b",
+				"balance"
+			],
+			[
+				"oBoo",
+				"oBool2"
+			],
+			[
+				"L",
+				"Lolol"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/LANO/produit.html",
+			"settings":
+			{
+				"buffer_size": 4409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/LANO/contact.html",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/LANO/faq.html",
+			"settings":
+			{
+				"buffer_size": 4534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/LANO/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2667,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Expo/style.css",
+		"/E/HTMLCSS/TD3/index.html",
+		"/D/LANO/produit.html",
+		"/D/LANO/css/styles.css",
+		"/D/LANO/images/styles.css",
+		"/D/LANO/images/test.html",
+		"/E/HTMLCSS/TD3/css/styles.css",
+		"/D/LANO/equipe.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Expo/expo.html",
+		"/D/LANO/contact.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/accueil.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/accueil.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/style.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/design.css",
+		"/D/Users/Lorenzo/Downloads/LANO/styles.css",
+		"/D/Users/Lorenzo/Downloads/LANO/produit.html",
+		"/D/Users/Lorenzo/Documents/Jeux/Nouveau dossier/Bleach vs One Piece v2.06.w3x",
+		"/D/Users/Lorenzo/Documents/Jeux/Warcraft III/Maps/Download/DotA v6.78c AI 1.4e.w3x",
+		"/D/Users/Lorenzo/Documents/Jeux/Warcraft III/bncache.dat",
+		"/D/Users/Lorenzo/AppData/Local/Temp/7zE46E0D65F/.text",
+		"/D/Users/Lorenzo/Documents/Jeux/Warcraft III/ijl15.dll",
+		"/D/Users/Lorenzo/Documents/Jeux/Warcraft III/game.dll",
+		"/D/Users/Lorenzo/Documents/code/s.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Annexe/annexe.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Download/load.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Taches/tache.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Taches/tache.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Dossier/dossier.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Dossier/dossier.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Diapositive/diapo.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Diapositive/diapo.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Expose/Expo1/style.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Expose/Expo1/expo.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/page.sublime-project",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Cours/main.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Cours/main.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Cours/maths/maths.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Cours/maths/maths.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Cours/base.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Page HTML (en développement)/Expose/expo.html",
+		"/D/Users/Lorenzo/Desktop/Slider/index.html",
+		"/D/Users/Lorenzo/Desktop/Slider/Design.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/bi.sublime-project",
+		"/C/ProgramData/SuiteLoRdi/Java/JavaPortableLauncher/help.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/Download/load.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/Script Python/mapage.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/test.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/Dossier/dossier.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/Taches/mapage.html",
+		"/D/Users/Lorenzo/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Users/Lorenzo/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/Taches/tache.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/projet/annexe.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/test.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/plan.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/plan.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/testz.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/page2.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/lol/AIDE.txt",
+		"/D/Users/Lorenzo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/testz.html",
+		"/C/wamp/www/tests/first.php",
+		"/C/wamp/www/tests/index.php",
+		"/C/wamp/www/tests/pied_de_page.php",
+		"/C/wamp/www/tests/menus.php",
+		"/C/wamp/www/tests/entete.php",
+		"/C/wamp/www/tp/secret.php",
+		"/C/wamp/www/tp/formulaire.php",
+		"/C/wamp/www/ok/formulaire.php",
+		"/C/wamp/www/ok/cible.php",
+		"/C/wamp/www/bonjour/bonjour.php",
+		"/C/wamp/www/bonjour/index.php",
+		"/D/Users/Lorenzo/Documents/ISN/Cartes/barbu.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Exercice 1/exo1.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Aide PAGE WEB/cadre de la page.txt",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Exercice 1/exo.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Travail à réaliser (CSS)/travail.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Travail à réaliser (CSS)/style.css",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Travail à réaliser (CSS)/_tyle.css",
+		"/D/Users/Lorenzo/Documents/ISN/S/Miniprojet.py",
+		"/D/Users/Lorenzo/Documents/ISN/PYTHON/Projet1/testz.py",
+		"/D/Users/Lorenzo/Documents/ISN/PYTHON/Projet1/test2.py",
+		"/D/Users/Lorenzo/Documents/ISN/PYTHON/Projet1/test.py",
+		"/C/wamp/www/wakfu/index.html",
+		"/C/wamp/www/ok/index.php",
+		"/C/wamp/www/tests/test.html",
+		"/D/Users/Lorenzo/Documents/ISN/Code/Python/pygame.py",
+		"/D/Users/Lorenzo/Desktop/Test/test.css",
+		"/D/Users/Lorenzo/Desktop/Test/test.html",
+		"/D/Users/Lorenzo/Desktop/Dissertation.html",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Exercice 2/exo2.py",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Exercice 3/exo3.py",
+		"/D/Users/Lorenzo/Documents/ISN/HTML/Exercice 3/test.html",
+		"/D/Users/Lorenzo/Desktop/tri/rec/UndeletedFiles/F/Nouveau dossier/Travail à réaliser (CSS)/travail.html",
+		"/D/Users/Lorenzo/Desktop/tri/rec/UndeletedFiles/F/Nouveau dossier/Travail à réaliser (CSS)/_tyle.css",
+		"/D/Users/Lorenzo/Desktop/tri/rec/UndeletedFiles/F/Nouveau dossier/Exercice 1/exo1.html",
+		"/D/Users/Lorenzo/AppData/Local/Ankama/Wakfu/user_data/game/preferences/characterPreferences-Lavandax.properties",
+		"/E/HTML/Exercice 2/exo2.py",
+		"/D/Users/Lorenzo/AppData/Local/Ankama/Wakfu/user_data/game/preferences/characterPreferences-Aquaticra.properties",
+		"/D/Users/Lorenzo/Documents/Code/DM/7 - secondes.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/4 - ax²+bx+c.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/5 - température.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/6 - triangle.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/8 - redondante.py",
+		"/E/DM ISN/5 - température.py",
+		"/E/DM ISN/4 - ax²+bx+c.py",
+		"/E/DM ISN/3 - ax+b.py",
+		"/E/DM ISN/2 - age.py",
+		"/E/DM ISN/1 - nombre.py",
+		"/E/DM ISN/0 - carré.py",
+		"/E/DM ISN/6 - triangle.py",
+		"/E/DM ISN/7 - secondes.py",
+		"/E/DM ISN/8 - redondante.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/3 - ax+b.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/2 - age.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/1 - nombre.py",
+		"/D/Users/Lorenzo/Documents/Code/DM/0 - carré.py",
+		"/D/Users/Lorenzo/Desktop/ECJS.html",
+		"/D/Users/Lorenzo/Desktop/ECJS",
+		"/D/Users/Lorenzo/Desktop/Test.html",
+		"/D/Users/Lorenzo/Documents/Code/DecBin.py",
+		"/D/Users/Lorenzo/Documents/Code/DecHex.py",
+		"/D/Users/Lorenzo/Documents/Code/BinDec.py",
+		"/D/Users/Lorenzo/Documents/Code/BinDec_HexDec.py",
+		"/D/Users/Lorenzo/Documents/Code/PGCD.py",
+		"/D/Users/Lorenzo/Documents/Code/PGCD2.py",
+		"/D/Users/Lorenzo/AppData/Local/Ankama/Wakfu/game/config.properties",
+		"/D/Users/Lorenzo/Documents/Code/binaire-decimal.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rgb(76,116,185)",
+			"rvb(76,116,185)",
+			"cyan",
+			"white",
+			"whute",
+			"div",
+			"	\n",
+			"a1j7",
+			"banniere",
+			"box",
+			"weight",
+			";\n",
+			"&rsquo;",
+			"xx1+yy1",
+			"xx2+yy2",
+			"xx3+yy3",
+			"xx4+yy4",
+			"x4+y4",
+			"x3+y3",
+			"x2+y2",
+			"x1+y1",
+			"x+y",
+			"xx+yy",
+			"fichier",
+			"Liste_Pastilles",
+			"Liste_Obstacles",
+			"abscisse2_obstacle",
+			"ordonnee_obstacle",
+			"abscisse_obstacle",
+			"longeur",
+			"rand_obs",
+			"?\n",
+			"resolution",
+			"0",
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rgb(32,230,230)",
+			"rgb(76,116,185)",
+			"rvb(76,116,185)",
+			"blue",
+			"diaporama1",
+			"'",
+			"xx+yy",
+			"x+y",
+			"x4+y4",
+			"x3+y3",
+			"x2+y2",
+			"x1+y1",
+			"xx4+yy4",
+			"xx3+yy3",
+			"xx2+yy2",
+			"xx1+yy1",
+			"CasePastilles",
+			"CaseObstacles",
+			"c",
+			"b",
+			"a",
+			"longueur",
+			"nombre_obstacle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/LANO/produit.html",
+					"settings":
+					{
+						"buffer_size": 4409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 155.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/LANO/contact.html",
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/LANO/faq.html",
+					"settings":
+					{
+						"buffer_size": 4534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4082,
+								4082
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/LANO/css/styles.css",
+					"settings":
+					{
+						"buffer_size": 2667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								1310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

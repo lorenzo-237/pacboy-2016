@@ -1,0 +1,19 @@
+#####################################
+# GUIDE DES LIBRAIRIES POUR LES .py #
+#####################################
+
+### Système Linux ###
+
+# tkinter pour python3
+sudo apt-get install python3-tk
+
+# pip et pygame
+## si vous avez déjà pip executer directement la deuxieme commande
+sudo apt-get install python3-pip
+python3 -m pip install pygame --user
+
+
+### Sous windows ###
+
+télécharger la librairie pygame via le site officielle 
+et utiliser l'IDE python (normalement tkinter est déjà pré-installé)

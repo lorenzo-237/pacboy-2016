@@ -1,0 +1,41 @@
+
+#balise
+{
+
+	background: url("#chemin") no-repeat;
+
+	webkit-animation-name: #name;
+	webkit-animation-duration: #s;
+	webkit-animation-timing-function: linear;
+	webkit-animation-iteration-count: infinite;
+	webkit-animation-direction: normal;
+
+	moz-animation-name: #name;
+	moz-animation-duration: #s;
+	moz-animation-timing-function: linear;
+	moz-animation-iteration-count: infinite;
+	moz-animation-direction: normal;
+
+	animation-name: #name;
+	animation-duration: #s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+
+}
+
+@-webkit-keyframes #name
+{
+	#%{background-image: url("#chemin");}
+	#%{background-image: url("#chemin");}
+}
+@-moz-keyframes #name
+{
+	#%{background-image: url("#chemin");}
+	#%{background-image: url("#chemin");}
+}
+@keyframes #name
+{
+	#%{background-image: url("#chemin");}
+	#%{background-image: url("#chemin");}
+}

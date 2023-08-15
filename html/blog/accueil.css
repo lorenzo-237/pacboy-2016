@@ -1,0 +1,66 @@
+/* Corps */
+
+article
+{
+	width: 650px;
+	display: inline-block;
+	vertical-align: top;
+	background:url("images/rouge.png");
+	border-radius: 5px;
+	padding: 6px;
+	color: #ffd700;
+	text-align: justify;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+article h1
+{
+	font-weight: bold;
+	color: #ffd700;
+	font-size: 1.5em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+aside
+{	
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	background: url("images/apropos.png");
+	border-radius: 5px;
+	padding: 5px;
+	color: white;
+	font-size: 0.9em;
+	text-align: justify;
+}
+
+aside h1
+{
+	width: 200px;
+	border-radius: 5px;
+	margin-left: 50px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	
+}
+
+aside h2
+{
+	font-style: oblique;
+	font-weight: bold;
+	padding-left: 3px;
+	text-transform: uppercase;
+	font-size: 1.3em;
+}
+
+#Lorenzo,#William
+{
+	color:cyan;
+	font-style: italic;
+}
